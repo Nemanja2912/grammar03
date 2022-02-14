@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<logo width="145" height="68"><![CDATA[data/_basics/GI_Logo_horizontal_white_sRGB.png]]></logo>
+	<title><![CDATA[Interaktive Grammatik]]></title>
+	<subtitle><![CDATA[Imperativ]]></subtitle>
+	<description><![CDATA[Wie bildet man den Imperativ? Dafür gibt es eine Regel. <br />Diese Regel kannst du in dieser Lektion lernen oder wiederholen.]]></description>
+	
+	<common>
+		<next><![CDATA[Weiter]]></next>
+		<infoButton><![CDATA[Information]]></infoButton>
+		<helpButton><![CDATA[Hilfe]]></helpButton>
+	</common>
+	
+	<imprint>
+		<copy>
+			<font size="18">
+			<font color="#788287"><b>CREDITS</b></font><br />
+			<font size="3"><br /></font>
+			<b>Autoren:</b> Lara Bernhardt, Inga Ivanovska, Irina Olepir, <br />Dietmar Rösler, Tamara Zeyer (Justus-Liebig-Universität Gießen)<br />
+			<font size="3"><br /></font>
+			<b>Konzeption und Redaktion:</b> Goethe-Institut e.V., Paul Rusch<br />
+			<font size="3"><br /></font>
+			<b>Umsetzung:</b> Andreas Münch / <a href="http://www.andreasmuench.de">www.andreasmuench.de</a><br />
+			<font size="6"><br /></font>
+			<font color="#788287"><b>BILDNACHWEISE</b></font><br />
+			<font size="3"><br /></font>
+			<b>Fotos:</b> Jochen Gerhardt (Imperativ in Situationen / Regel formulieren)<br />
+			<font size="3"><br /></font>
+			<b>Animation:</b> Dominik Hafner<br />
+			</font>
+		</copy>
+	</imprint>
+	
+	<end>
+		<headline><![CDATA[ENDE]]></headline>
+		<copy><![CDATA[Das war die letzte Aufgabe.<br /> Du kannst im Menü eine andere Aufgabe auswählen und sie wiederholen. ]]></copy>
+	</end>
+
+	
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<!-- --------------------------------------------- SET 1 ----------------------------------------------------- --> 
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<set>
+		<title><![CDATA[1. Imperativ in Situationen]]></title>
+		<subtitle><![CDATA[Was ist Imperativ? ]]></subtitle>
+		<description><![CDATA[Du arbeitest mit Situationen. In diesen Situationen gibt es eine besondere grammatische Form.]]></description>
+			
+		<task><![CDATA[Klick auf die Bilder und sieh dir kleine Geschichten an.]]></task>
+		<task><![CDATA[Welche Funktion hat der Satz unten? <br />Wähle die richtige Antwort.]]></task>
+		<!-- step2 -->
+		<task><![CDATA[Wann sagt man du? <br />Wann sagt man Sie? <br />Sortiere die Situationen.]]></task>
+		<!-- step3 -->
+		<task><![CDATA[Zieh die Verbformen aus den Sätzen.]]></task>
+		<task><![CDATA[Klicke auf "Weiter"!]]></task>
+		
+		<button><![CDATA[Tipp]]></button>
+		<button><![CDATA[Aufforderung]]></button>
+		<button><![CDATA[Bitte]]></button>
+		
+		
+		
+				
+		<story type="0" formal="false" singular="true" >
+			<error>
+				<![CDATA[Das ist fast richtig. Das Mädchen spricht mit <b>einer</b> Freundin.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story2a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Rot steht dir gut.]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story2b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Probier mal dieses Kleid.]]></text>
+			</elem>
+		</story>
+			
+		<story type="0"  formal="false" singular="false" >
+			<error>
+				<![CDATA[Das ist fast richtig. Das Mädchen spricht mit <b>mehreren</b> Freunden.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story3a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Der Zug fährt gleich. ]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story3b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Steigt lieber schon ein.]]></text>
+			</elem>
+		</story>
+	
+		<story type="1"  formal="false" singular="true" firstSentence="false">
+			<error>
+				<![CDATA[Das ist fast richtig. Das Mädchen spricht mit <b>einem</b> Freund.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story1b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Oh! Es gibt eine Umleitung!]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story1a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Fahr geradeaus!]]></text>
+			</elem>
+		</story>
+	
+		<story type="2"  formal="false" singular="false">
+			<error>
+				<![CDATA[Das ist fast richtig. Das Mädchen spricht mit <b>mehreren</b> Freunden.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story4a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Mein Koffer ist so schwer!]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story4b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Helft mir bitte!]]></text>
+			</elem>
+		</story>
+		
+		<story type="2"  formal="true" singular="true" firstSentence="false">
+			<error>
+				<![CDATA[Das ist fast richtig. Der Mann spricht mit <b>einer</b> Frau.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story5a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Ich habe zu viele Sachen gekauft.]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story5b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Geben Sie mir bitte eine Tüte!]]></text>
+			</elem>
+		</story>
+		
+		<story type="1"  formal="true" singular="false" firstSentence="true">
+				<error>
+				<![CDATA[Das ist fast richtig. Der Polizist spricht mit <b>mehreren</b> Leuten.]]>
+			</error>
+			<elem>
+				<image><![CDATA[data/01/story6a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Erzählen Sie!]]></text>
+			</elem>
+			<elem>
+				<image><![CDATA[data/01/story6b.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Herr Kommissar, meine Nachbarn sind sehr laut.]]></text>
+			</elem>
+		</story>
+		<!-- -->
+
+		<sentence punctuationMark="!">
+			<elem type="verb">
+				<text><![CDATA[Probier]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[mal]]></text>
+			</elem>
+			<elem>
+				<text><![CDATA[dieses]]></text>
+			</elem>
+			<elem>
+				<text><![CDATA[Kleid ]]></text>
+			</elem>
+			<elem  type="verb">
+				<text><![CDATA[an]]></text>
+			</elem>
+		</sentence>
+		
+		<sentence punctuationMark="!">
+			<elem type="verb">
+				<text><![CDATA[Fahr]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[geradeaus]]></text>
+			</elem>
+		</sentence>
+		
+		<sentence punctuationMark="!">
+			<elem type="verb" >
+				<text><![CDATA[Steigt]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[lieber]]></text>
+			</elem>
+			<elem>
+				<text><![CDATA[schon]]></text>
+			</elem>
+			<elem  type="verb">
+				<text><![CDATA[ein]]></text>
+			</elem>
+		</sentence>
+
+		<sentence punctuationMark="!">
+			<elem type="verb">
+				<text><![CDATA[Helft]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[mir]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[bitte]]></text>
+			</elem>
+		</sentence>
+		
+		<sentence punctuationMark="!">
+			<elem type="verb" >
+				<text><![CDATA[Geben]]></text>
+			</elem>
+			<elem  type="verb">
+				<text><![CDATA[Sie]]></text>
+			</elem>
+			<elem>
+				<text><![CDATA[mir]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[bitte]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[eine]]></text>
+			</elem>
+			<elem  >
+				<text><![CDATA[Tüte]]></text>
+			</elem>
+		</sentence>
+		
+		<sentence punctuationMark="!">
+			<elem type="verb">
+				<text><![CDATA[Erzählen]]></text>
+			</elem>
+			<elem  type="verb">
+				<text ><![CDATA[Sie]]></text>
+			</elem>
+		</sentence>
+		
+		
+		<imperativeBox>
+			<label><![CDATA[Imperativ <b>du</b>-Form]]></label>
+			<sideLabel><![CDATA[DU-FORM]]></sideLabel>
+		</imperativeBox>
+		<imperativeBox>
+			<label><![CDATA[Imperativ <b>ihr</b>-Form]]></label>
+			<sideLabel><![CDATA[IHR-FORM]]></sideLabel>
+		</imperativeBox>
+		<imperativeBox>
+			<label><![CDATA[Imperativ <b>Sie</b>-Form]]></label>
+			<sideLabel><![CDATA[SIE-FORM]]></sideLabel>
+		</imperativeBox>
+
+		
+		<common>
+			<!--<errors>
+				<wrongElement><![CDATA["{sentenceElementValue}" ist kein Verb. Es ist ein {sentenceElementType}. Versuch es noch einmal.]]></wrongElement>		
+			</errors>
+			
+			<sentenceElementTypes>
+				<verb><![CDATA[Verb]]></verb>
+				<nounWithArticle><![CDATA[Nomen mit Artikel]]></nounWithArticle>
+				<unknownElement><![CDATA[*unbekanntes Satzelement*]]></unknownElement>
+			</sentenceElementTypes>
+			-->
+		</common>
+
+
+		
+	
+	</set>
+	
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<!-- --------------------------------------------- SET 2 ----------------------------------------------------- --> 
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	
+	<set>
+		<title><![CDATA[2. Drei Schritte zum Imperativ]]></title>
+		<subtitle><![CDATA[IMPERATIV BILDEN]]></subtitle>
+		<description><![CDATA[Du machst 3 Schritte und bildest den Imperativ.]]></description>
+				
+		<task><![CDATA[Wie bildet man die Imperativ-Formen? <br />Klick die blauen Felder an.]]></task>
+		
+		
+			
+		<steptask>
+			<common>
+				<step1><![CDATA[Infinitiv auswählen]]></step1>
+				<step2><![CDATA[du-Form bilden]]></step2>
+				<step3><![CDATA[Mit Radiergummi arbeiten]]></step3>
+				<step4><![CDATA[Imperativ fertig]]></step4>
+			</common>
+			
+			<step1>
+				<infinitive><![CDATA[anprobieren]]></infinitive>
+				<infinitive><![CDATA[fahren]]></infinitive>
+			</step1>
+			
+			<step2>
+				<textBefore><![CDATA[du]]></textBefore>
+				<textInput><![CDATA[probierst]]></textInput>
+				<textAfter><![CDATA[an]]></textAfter>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich probiere an, du probier__ an.]]></error>
+			</step2>
+			
+			<step2>
+				<textBefore><![CDATA[du]]></textBefore>
+				<textInput><![CDATA[fährst]]></textInput>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich fahre, du fähr_ _.]]></error>
+			</step2>
+			
+			<step3>
+				<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[du]]></elem>
+				<elem start="{x:34}" complete="{x:0}"><![CDATA[probier]]></elem>
+				<elem start="{x:104,alpha:1}" end="{alpha:0}"  ><![CDATA[st]]></elem>
+				<elem start="{x:130}" complete="{x:80}"><![CDATA[an]]></elem>
+				<story id="0" sound="B">
+					<elem>
+						<image><![CDATA[data/01/story2a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Probier</b> mal dieses Kleid <b>an!</b>]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step3>
+				<elem start="{alpha:1}" end="{alpha:0}" rubbable="true"><![CDATA[du]]></elem>
+				<elem start="{x:34}" complete="{x:0}"><![CDATA[f]]></elem>
+				<elem start="{x:43,alpha:1}" end="{alpha:0}"  ><![CDATA[ä]]></elem>
+				<elem start="{x:43,alpha:0}" end="{alpha:1}" complete="{x:9}"><![CDATA[a]]></elem>
+				<elem start="{x:55}"  complete="{x:21}"><![CDATA[hr]]></elem>
+				<elem start="{x:76,alpha:1}"  end="{alpha:0}"  ><![CDATA[st]]></elem>
+				<story id="2"  sound="B">
+					<elem>
+						<image><![CDATA[data/01/story1a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Fahr</b> geradeaus!]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step4>
+				<imperative><![CDATA[Probier an!]]></imperative>
+				<imperative><![CDATA[Fahr!]]></imperative>
+			</step4>
+		</steptask>
+		
+		<steptask>
+			<common>
+				<step1><![CDATA[Infinitiv auswählen]]></step1>
+				<step2><![CDATA[ihr-Form bilden]]></step2>
+				<step3><![CDATA[Mit Radiergummi arbeiten]]></step3>
+				<step4><![CDATA[Imperativ fertig]]></step4>
+			</common>
+			
+			<step1>
+				<infinitive><![CDATA[einsteigen]]></infinitive>
+				<infinitive><![CDATA[helfen]]></infinitive>
+			</step1>
+			
+			<step2>
+				<textBefore><![CDATA[ihr]]></textBefore>
+				<textInput><![CDATA[steigt]]></textInput>
+				<textAfter><![CDATA[ein]]></textAfter>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich steige ein, ihr stei__ ein.]]></error>
+			</step2>
+			
+			<step2>
+				<textBefore><![CDATA[ihr]]></textBefore>
+				<textInput><![CDATA[helft]]></textInput>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich helfe, ihr hel__.]]></error>
+			</step2>
+			
+			<step3>
+				<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[ihr]]></elem>
+				<elem start="{x:34}" complete="{x:0}"><![CDATA[steigt]]></elem>
+				<elem start="{x:100}" complete="{x:65}"><![CDATA[ein]]></elem>
+				<story id="1" sound="B">
+					<elem>
+						<image><![CDATA[data/01/story3a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Steigt</b> lieber schon <b>ein</b>.]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step3>
+				<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[ihr]]></elem>
+				<elem start="{x:44}" complete="{x:0}"><![CDATA[helft]]></elem>
+				<story id="3" sound="B">
+					<elem>
+						<image><![CDATA[data/01/story4a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Helft</b> mir bitte!]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step4>
+				<imperative><![CDATA[Steigt ein!]]></imperative>
+				<imperative><![CDATA[Helft!]]></imperative>
+			</step4>
+			
+		</steptask>
+		
+		<steptask>
+			<common>
+				<step1><![CDATA[Infinitiv auswählen]]></step1>
+				<step2><![CDATA[Sie-Form bilden]]></step2>
+				<step3><![CDATA[Mit Wortwechsler arbeiten]]></step3>
+				<step4><![CDATA[Imperativ fertig]]></step4>
+			</common>
+			
+			<step1>
+				<infinitive><![CDATA[geben]]></infinitive>
+				<infinitive><![CDATA[erzählen]]></infinitive>
+			</step1>
+			
+			<step2>
+				<textBefore><![CDATA[Sie]]></textBefore>
+				<textInput><![CDATA[geben]]></textInput>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich gebe, Sie geb__ .]]></error>
+			</step2>
+			
+			<step2>
+				<textBefore><![CDATA[Sie]]></textBefore>
+				<textInput><![CDATA[erzählen]]></textInput>
+				<error><![CDATA[Das ist leider falsch. <br /><b>Tipp:</b> Ich erzähle, Sie erzähl__ .]]></error>
+			</step2>
+			
+			<step3 rubberDoubleArrow="true">
+				<elem start="{x:0}" end="{x:100}" complete="{x:70}"  rubbable="true"><![CDATA[Sie]]></elem>
+				<elem start="{x:38}" complete="{x:0}"><![CDATA[geben]]></elem>
+				<story id="4" sound="B">
+					<elem>
+						<image><![CDATA[data/01/story5a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Geben Sie</b> mir bitte eine Tüte!]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step3  rubberDoubleArrow="true">
+				<elem start="{x:0}" end="{x:130}" complete="{x:95}"  rubbable="true"><![CDATA[Sie]]></elem>
+				<elem start="{x:38}" complete="{x:0}"><![CDATA[erzählen]]></elem>
+				<story id="5">
+					<elem>
+						<image><![CDATA[data/01/story6a.jpg]]></image>
+						<sound><![CDATA[]]></sound>
+						<text><![CDATA[<b>Erzählen Sie</b>!]]></text>
+					</elem>
+				</story>
+			</step3>
+			
+			<step4>
+				<imperative><![CDATA[Geben Sie!]]></imperative>
+				<imperative><![CDATA[Erzählen Sie!]]></imperative>
+			</step4>
+			
+		</steptask>
+		
+		
+		
+	</set>
+	
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<!-- --------------------------------------------- SET 3 ----------------------------------------------------- --> 
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<set>
+		<title><![CDATA[3. Regel formulieren]]></title>
+		<subtitle><![CDATA[Wie heisst die Regel?]]></subtitle>
+		<description><![CDATA[Du hast viel mit Sätzen gearbeitet und kannst selbst eine Regel formulieren.]]></description>
+		
+		<task><![CDATA[Welche Funktionen haben die Sätze? Sortiere sie.]]></task>
+		<task><![CDATA[Zieh die Wörter in die Lücken.]]></task>
+
+		
+		
+		
+		
+		
+		<story type="0" formal="false" singular="true">
+			<elem>
+				<image mobileId="0"><![CDATA[data/01/story2a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Probier mal dieses Kleid an!]]></text>
+			</elem>
+		</story>
+		
+		<story type="1"  formal="false" singular="true">
+			<elem>
+				<image mobileId="2"><![CDATA[data/01/story1a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Fahr geradeaus! ]]></text>
+			</elem>
+		</story>
+		
+		<story type="2"  formal="true" singular="true">
+			<elem>
+				<image mobileId="4"><![CDATA[data/01/story5a.jpg]]></image>
+				<sound><![CDATA[]]></sound>
+				<text><![CDATA[Geben Sie mir bitte eine Tüte!]]></text>
+			</elem>
+		</story>
+		
+		<!-------step2 -->
+		
+		<info><![CDATA[Der Imperativ hat zwei Kategorien und drei Formen.]]></info>
+		
+		<table>
+			<informal><![CDATA[informell]]></informal>
+			<formal><![CDATA[formell]]></formal>
+			
+			<box><![CDATA[du-Form]]></box>
+			<box><![CDATA[ihr-Form]]></box>
+			<box><![CDATA[Sie-Form]]></box>
+			
+			
+			<row>
+				<col>
+					<present><![CDATA[du steigst ein]]></present> <!-- Steig ein! -->
+					<elem start="{alpha:1}" end="{alpha:0}" rubbable="true"><![CDATA[du]]></elem>
+					<elem start="{x:32}" complete="{x:0, alpha:0}"><![CDATA[s]]></elem>
+					<elem start="{x:32, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[S]]></elem>
+					<elem start="{x:42}" complete="{x:12}"><![CDATA[teig]]></elem>
+					<elem start="{x:78, alpha:1}" end="{alpha:0}"  ><![CDATA[st]]></elem>
+					<elem start="{x:102}" complete="{x:57}"><![CDATA[ein]]></elem>
+					<elem start="{x:98, alpha:0}" complete="{x:88, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				<col>
+					<present><![CDATA[ihr steigt ein]]></present> <!-- Steigt ein! -->
+					<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[ihr]]></elem>
+					<elem start="{x:35}" complete="{x:0, alpha:0}"><![CDATA[s]]></elem>
+					<elem start="{x:35, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[S]]></elem>
+					<elem start="{x:46}" complete="{x:12}"><![CDATA[teigt]]></elem>
+					<elem start="{x:98}" complete="{x:63}"><![CDATA[ein]]></elem>
+					<elem start="{x:70, alpha:0}" complete="{x:95, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				<col rubberDoubleArrow = "true">
+					<present><![CDATA[Sie steigen ein]]></present> <!-- Steigen Sie ein! -->
+					<elem start="{x:0}" end="{x:110}" complete="{x:79}"  rubbable="true"><![CDATA[Sie]]></elem>
+					<elem start="{x:36}" complete="{x:0, alpha:0}"><![CDATA[s]]></elem>
+					<elem start="{x:36, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[S]]></elem>
+					<elem start="{x:46}" complete="{x:13}"><![CDATA[teigen]]></elem>
+					<elem start="{x:110}" complete="{x:114}"><![CDATA[ein]]></elem>
+					<elem start="{x:145, alpha:0}" complete="{x:144, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				
+			</row>
+			
+			
+			<row>
+				<col>
+					<present><![CDATA[du fährst]]></present>
+					<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[du]]></elem>
+					<elem start="{x:33}" complete="{x:0, alpha:0}"><![CDATA[f]]></elem>
+					<elem start="{x:33, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[F]]></elem>
+					<elem start="{x:42, alpha:1}" end="{alpha:0}"><![CDATA[ä]]></elem>
+					<elem start="{x:42, alpha:0}" end="{alpha:1}"  complete="{x:12}"><![CDATA[a]]></elem>
+					<elem start="{x:54}" complete="{x:24}"><![CDATA[hr]]></elem>
+					<elem start="{x:98, alpha:0}" complete="{x:45, alpha:1}"><![CDATA[!]]></elem>
+					<elem start="{x:74, alpha:1}" end="{alpha:0}"><![CDATA[st]]></elem>
+				</col>
+				<col>
+					<present><![CDATA[ihr fahrt]]></present>
+					<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[ihr]]></elem>
+					<elem start="{x:38}" complete="{x:0, alpha:0}"><![CDATA[f]]></elem>
+					<elem start="{x:38, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[F]]></elem>
+					<elem start="{x:47}" complete="{x:12}"><![CDATA[ahrt]]></elem>
+					<elem start="{x:70, alpha:0}" complete="{x:55, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				<col rubberDoubleArrow = "true">
+					<present><![CDATA[Sie fahren]]></present>
+					<elem start="{x:0}" end="{x:110}" complete="{x:75}"  rubbable="true"><![CDATA[Sie]]></elem>
+					<elem start="{x:38}" complete="{x:0, alpha:0}"><![CDATA[f]]></elem>
+					<elem start="{x:38, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[F]]></elem>
+					<elem start="{x:47}" complete="{x:13}"><![CDATA[ahren]]></elem>
+					<elem start="{x:145, alpha:0}" complete="{x:106, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				
+			</row>
+			
+			
+			
+			<row>
+				<col>
+					<present><![CDATA[du erzählst]]></present>
+					<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[du]]></elem>
+					<elem start="{x:38}" complete="{x:0, alpha:0}"><![CDATA[e]]></elem>
+					<elem start="{x:38, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[E]]></elem>
+					<elem start="{x:50}" complete="{x:13}"><![CDATA[rzähl]]></elem>
+					<elem start="{x:98, alpha:0}" complete="{x:64, alpha:1}"><![CDATA[!]]></elem>
+					<elem start="{x:98, alpha:1}" end="{alpha:0}"><![CDATA[st]]></elem>
+				</col>
+				<col>
+					<present><![CDATA[ihr erzählt]]></present>
+					<elem start="{alpha:1}" end="{alpha:0}"  rubbable="true"><![CDATA[ihr]]></elem>
+					<elem start="{x:38}" complete="{x:0, alpha:0}"><![CDATA[e]]></elem>
+					<elem start="{x:38, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[E]]></elem>
+					<elem start="{x:50}" complete="{x:13}"><![CDATA[rzählt]]></elem>
+					<elem start="{x:105, alpha:0}" complete="{x:70, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				<col rubberDoubleArrow = "true">
+					<present><![CDATA[Sie erzählen]]></present>
+					<elem start="{x:0}" end="{x:130}" complete="{x:95}"  rubbable="true"><![CDATA[Sie]]></elem>
+					<elem start="{x:38}" complete="{x:0, alpha:0}"><![CDATA[e]]></elem>
+					<elem start="{x:38, alpha:0}" complete="{x:0, alpha:1}"><![CDATA[E]]></elem>
+					<elem start="{x:50}" complete="{x:13}"><![CDATA[rzählen]]></elem>
+					<elem start="{x:165, alpha:0}" complete="{x:126, alpha:1}"><![CDATA[!]]></elem>
+				</col>
+				
+			</row>
+			
+
+		</table>
+		
+		<infoAnimation>
+
+			<descr><![CDATA[ {btn}. ]]></descr>
+			<pos1><![CDATA[Position 1]]></pos1>
+			
+			<sent><![CDATA[Fahr |geradeaus!]]></sent>
+			<sent><![CDATA[Steigt |ein!]]></sent>
+			<sent><![CDATA[Erzählen |Sie!]]></sent>
+			
+		</infoAnimation>
+		
+		<rule btnWidth="160">
+			<elem>
+				<text><![CDATA[Im Imperativ-Satz steht das Verb auf {{btn}}.]]></text>
+			</elem>
+			<btn right="0"><![CDATA[Position 1]]></btn>
+			<btn ><![CDATA[Position 2]]></btn>
+		</rule>
+		
+	
+	</set>
+	
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<!-- --------------------------------------------- SET 4 ----------------------------------------------------- --> 
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<set>
+		<title><![CDATA[4. Übung 1]]></title>
+		<subtitle><![CDATA[Was kannst du?]]></subtitle>
+		<description><![CDATA[In dieser Übung bildest du Imperativ-Formen und arbeitest mit Sätzen.]]></description>
+				
+		<task><![CDATA[Arbeite mit der Tabelle: Schreib die Präsens- und Imperativformen. Zieh dann den passenden Imperativ in den Satz.]]></task>
+		<task><![CDATA[Zieh den passenden Imperativ in den Satz.]]></task>
+		
+		
+		<verb>
+			<infinitive><![CDATA[HELFEN]]></infinitive>
+			<present>
+				<elem pp="du" endform="[b]h[font color='#ffffff']i[/font]lfst[/b]"><![CDATA[hilfst]]></elem>
+				<elem pp="ihr"><![CDATA[helft]]></elem>
+				<elem pp="Sie"><![CDATA[helfen]]></elem>
+			</present>
+			<imperative>
+				<elem pp="du" ><![CDATA[Hilf]]></elem>
+				<elem pp="ihr"><![CDATA[Helft]]></elem>
+				<elem pp="Sie"><![CDATA[Helfen Sie]]></elem>
+				
+				<img><![CDATA[data/04/U_helfen.jpg]]></img>
+				<gapText pp="du"><![CDATA[mir bitte in der Küche!]]></gapText>
+			</imperative>
+			
+		</verb>
+		
+		<verb>
+			<infinitive><![CDATA[KOMMEN]]></infinitive>
+			<present>
+				<elem pp="du"><![CDATA[kommst]]></elem>
+				<elem pp="ihr"><![CDATA[kommt]]></elem>
+				<elem pp="Sie"><![CDATA[kommen]]></elem>
+			</present>
+			<imperative>
+				<elem pp="du"><![CDATA[Komm]]></elem>
+				<elem pp="ihr"><![CDATA[Kommt]]></elem>
+				<elem pp="Sie"><![CDATA[Kommen Sie]]></elem>
+				
+				<img><![CDATA[data/04/U_kommen.jpg]]></img>
+				<gapText pp="Sie"><![CDATA[zu Besuch!]]></gapText>
+			</imperative>
+		</verb>
+		
+		<verb>
+			<infinitive><![CDATA[BRINGEN]]></infinitive>
+			<present>
+				<elem pp="du"><![CDATA[bringst]]></elem>
+				<elem pp="ihr"><![CDATA[bringt]]></elem>
+				<elem pp="Sie"><![CDATA[bringen]]></elem>
+			</present>
+			<imperative>
+				<elem pp="du"><![CDATA[Bring]]></elem>
+				<elem pp="ihr"><![CDATA[Bringt]]></elem>
+				<elem pp="Sie"><![CDATA[Bringen Sie]]></elem>
+				
+				<img><![CDATA[data/04/U_bringen.jpg]]></img>
+				<gapText pp="ihr"><![CDATA[bitte noch Gläser!]]></gapText>
+			</imperative>
+		</verb>
+		
+			<verb>
+			<infinitive><![CDATA[NEHMEN]]></infinitive>
+			<present>
+				<elem pp="du" endform="[b]n[font color='#ffffff']imm[/font]st[/b]"><![CDATA[nimmst]]></elem>
+				<elem pp="ihr"><![CDATA[nehmt]]></elem>
+				<elem pp="Sie"><![CDATA[nehmen]]></elem>
+			</present>
+			<imperative>
+				<elem pp="du"><![CDATA[Nimm]]></elem>
+				<elem pp="ihr"><![CDATA[Nehmt]]></elem>
+				<elem pp="Sie"><![CDATA[Nehmen Sie]]></elem>
+				<img><![CDATA[data/04/U_nehmen.jpg]]></img>
+				<gapText pp="du"><![CDATA[eine Dose!]]></gapText>
+			</imperative>
+		</verb>
+		
+			<verb>
+			<infinitive><![CDATA[FAHREN]]></infinitive>
+			<present>
+				<elem pp="du" endform="[b]f[font color='#ffffff']ä[/font]hrst[/b]"><![CDATA[fährst]]></elem>
+				<elem pp="ihr"><![CDATA[fahrt]]></elem>
+				<elem pp="Sie"><![CDATA[fahren]]></elem>
+			</present>
+			<imperative>
+				<elem pp="du"><![CDATA[Fahr]]></elem>
+				<elem pp="ihr"><![CDATA[Fahrt]]></elem>
+				<elem pp="Sie"><![CDATA[Fahren Sie]]></elem>
+				<img><![CDATA[data/04/U_fahren.jpg]]></img>
+				<gapText pp="Sie"><![CDATA[zuerst nach links!]]></gapText>
+			</imperative>
+		</verb>
+		
+	
+	</set>
+	
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<!-- --------------------------------------------- SET 5 ----------------------------------------------------- --> 
+	<!-- --------------------------------------------------------------------------------------------------------- --> 
+	<set>
+		<title><![CDATA[5. Übung 2]]></title>
+		<subtitle><![CDATA[Was weisst du?]]></subtitle>
+		<description><![CDATA[In dieser Übung schreibst du die richtige Imperativ-Form, <br /> dann siehst du dir die Animation an.]]></description>
+		
+		<task><![CDATA[Wie heißt die Imperativ-Form? <br />Schreib in die Lücke.]]></task>
+
+			
+		<animation>
+			<file><![CDATA[data/05/6a.swf]]></file>
+			<file><![CDATA[data/05/6b.swf]]></file>
+			<file><![CDATA[data/05/6c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Probieren]]></elem>
+				<elem type="gap"><![CDATA[Sie]]></elem>
+				<elem type="text"><![CDATA[diese Hose]]></elem>
+				<elem type="gap" noSpaceAfter="true"><![CDATA[an]]></elem>
+				<elem type="text"><![CDATA[! Sie passt Ihnen gut!]]></elem>
+			</gapFillText>
+			
+			<box x="250"><![CDATA[anprobieren]]></box>
+		</animation>
+
+		<animation>
+			<file><![CDATA[data/05/1a.swf]]></file>
+			<file><![CDATA[data/05/1b.swf]]></file>
+			<file><![CDATA[data/05/1c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Essen]]></elem>
+				<elem type="gap"><![CDATA[Sie]]></elem>
+				<elem type="text"><![CDATA[viel Obst und]]></elem>
+				<elem type="gap"><![CDATA[trinken]]></elem>
+				<elem type="gap"><![CDATA[Sie]]></elem>
+				<elem type="text"><![CDATA[genug Wasser! Das hilft Ihnen.]]></elem>
+			</gapFillText>
+			
+			<box x="150"><![CDATA[essen]]></box>
+			<box x="470"><![CDATA[trinken]]></box>
+		</animation>
+		
+		<animation>
+			<file><![CDATA[data/05/2a.swf]]></file>
+			<file><![CDATA[data/05/2b.swf]]></file>
+			<file><![CDATA[data/05/2c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Zieh]]></elem>
+				<elem type="text"><![CDATA[die Jacke]]></elem>
+				<elem type="gap"  noSpaceAfter="true"><![CDATA[an]]></elem>
+				<elem type="text"><![CDATA[! Draußen ist es kalt.]]></elem>
+			</gapFillText>
+			
+			<box x="280"><![CDATA[anziehen]]></box>
+		</animation>
+		
+		<animation>
+			<file><![CDATA[data/05/3a.swf]]></file>
+			<file><![CDATA[data/05/3b.swf]]></file>
+			<file><![CDATA[data/05/3c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Gib]]></elem>
+				<elem type="text"><![CDATA[mir den Ball!]]></elem>
+			</gapFillText>
+			
+			<box x="410"><![CDATA[geben]]></box>
+		</animation>
+		
+		<animation>
+			<file><![CDATA[data/05/4a.swf]]></file>
+			<file><![CDATA[data/05/4b.swf]]></file>
+			<file><![CDATA[data/05/4c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Kommt]]></elem>
+				<elem type="gap"><![CDATA[mit]]></elem>
+				<elem type="text"><![CDATA[ins Kino! Ich habe drei Karten für den Film heute!]]></elem>
+			</gapFillText>
+			
+			<box  x="200"><![CDATA[mitkommen]]></box>
+		</animation>
+		
+		<animation>
+			<file><![CDATA[data/05/5a.swf]]></file>
+			<file><![CDATA[data/05/5b.swf]]></file>
+			<file><![CDATA[data/05/5c.swf]]></file>
+			
+			<gapFillText>
+				<elem type="gap"><![CDATA[Gebt]]></elem>
+				<elem type="text"><![CDATA[bitte eure Hausaufgaben]]></elem>
+				<elem type="gap" noSpaceAfter="true"><![CDATA[ab]]></elem>
+				<elem type="text"><![CDATA[!]]></elem>
+			</gapFillText>
+			
+			<box x="305"><![CDATA[abgeben]]></box>
+		</animation>
+
+
+	</set>
+	
+	<common>
+		<start><![CDATA[Start]]></start>
+	</common>
+</data>
